@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-04-18T13:54:54.259797+00:00",
+  "eval_model": "gpt-4o-mini",
+  "example_count": 3,
+  "rows": [
+    {
+      "category": "happy_path",
+      "success": false,
+      "input_preview": "Summarize how BM25 and dense vector search differ for enterprise search, in bullet points.",
+      "actual_preview": "The report summarizing the differences between BM25 and dense vector search in the context of enterprise search has been successfully created and saved. You can find it [here](sandbox:/Users/vladishchenko/Documents/ai/homework-7/output/BM25_vs_Dense_Vector_Search.md). \n\nIf you need further assistance or modifications, feel free to ask!",
+      "metrics": [
+        {
+          "name": "Answer Relevancy",
+          "score": 0.25,
+          "threshold": 0.55,
+          "success": false
+        },
+        {
+          "name": "Correctness [GEval]",
+          "score": 0.12908223136165464,
+          "threshold": 0.5,
+          "success": false
+        },
+        {
+          "name": "Citation Presence [GEval]",
+          "score": 0.5985909269804132,
+          "threshold": 0.45,
+          "success": true
+        }
+      ]
+    },
+    {
+      "category": "happy_path",
+      "success": false,
+      "input_preview": "What are practical guardrails when exposing an LLM agent to web_search tools?",
+      "actual_preview": "The report on practical guardrails for exposing LLM agents to web search tools has been successfully compiled and saved. It includes advancements in data protection frameworks by OneShield, guidelines from the Partnership on AI, and methodologies for stakeholder engagement in AI development.\n\nYou can download the report using the following link: [llm_guardrails_report.md](sandbox:/Users/vladishche",
+      "metrics": [
+        {
+          "name": "Answer Relevancy",
+          "score": 0.6,
+          "threshold": 0.55,
+          "success": true
+        },
+        {
+          "name": "Correctness [GEval]",
+          "score": 0.2659130704316301,
+          "threshold": 0.5,
+          "success": false
+        },
+        {
+          "name": "Citation Presence [GEval]",
+          "score": 0.7327983326190373,
+          "threshold": 0.45,
+          "success": true
+        }
+      ]
+    },
+    {
+      "category": "happy_path",
+      "success": false,
+      "input_preview": "Compare naive fixed-size chunking vs sentence-window retrieval for RAG. Give tradeoffs and when to pick each.",
+      "actual_preview": "The report comparing naive fixed-size chunking and sentence-window retrieval for Retrieval-Augmented Generation (RAG) has been successfully compiled and saved. You can find the report titled **\"RAG_Chunking_Strategies_Comparison.md\"** in your designated output directory. If you need any further assistance or modifications, feel free to ask!",
+      "metrics": [
+        {
+          "name": "Answer Relevancy",
+          "score": 0.0,
+          "threshold": 0.55,
+          "success": false
+        },
+        {
+          "name": "Correctness [GEval]",
+          "score": 0.1,
+          "threshold": 0.5,
+          "success": false
+        },
+        {
+          "name": "Citation Presence [GEval]",
+          "score": 0.10275862874242947,
+          "threshold": 0.45,
+          "success": false
+        }
+      ]
+    }
+  ]
+}

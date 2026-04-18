@@ -1,0 +1,37 @@
+# World's largest urban areas — reference notes
+
+Population figures vary by source, boundary (city proper vs metropolitan region), and year. Below are rounded estimates for major global cities, mainly mid-2020s, for general comparison.
+
+## By metropolitan / urban agglomeration (very approximate)
+
+- **Tokyo (Japan)** — Often cited among the largest metro populations worldwide (on the order of 35–40 million in the extended capital region, depending on definition). Major economic hub, dense rail network, limited sprawl compared to some peers due to geography and planning.
+
+- **Delhi (India)** — National capital region including New Delhi; very large metro (often 25–30+ million depending on boundaries). Rapid growth, mix of historic cores and expanding suburbs.
+
+- **Shanghai (China)** — Key financial and trade center; Yangtze River Delta integration pushes regional population very high. City proper is large; the wider region is among the world’s biggest economic clusters.
+
+- **São Paulo (Brazil)** — Largest city in the Americas by metro population (roughly 20+ million in extended definitions). Sprawling, car-oriented in parts, strong industry and services.
+
+- **Mexico City (Mexico)** — High-altitude basin; metro often 20+ million. Historic center, heavy traffic, ongoing water and air-quality challenges.
+
+- **Cairo (Egypt)** — Dense Nile corridor; metro estimates often in the high tens of millions for Greater Cairo, depending on definition. Ancient history layered with informal housing on the edges.
+
+- **Dhaka (Bangladesh)** — Extremely high population density in many wards; metro often cited around 20+ million. Riverine geography, garment industry, rapid rural–urban migration.
+
+- **Mumbai (India)** — Coastal megacity; finance and film industry (“Bollywood”). Island-linked core with dense informal settlements and ongoing metro expansion.
+
+- **Beijing (China)** — Political and cultural capital; large administered population with strict hukou-related statistics; regional commuter belt adds to functional urban mass.
+
+- **Osaka–Kobe–Kyoto (Japan)** — Kansai corridor forms one of the world’s major urbanized belts even if often split in rankings.
+
+## City-proper vs metro
+
+Rankings differ sharply: **city limits** favor places like Chongqing (very large administrative area) or cities with merged counties, while **urban footprint** favors continuous built-up regions (e.g., Pearl River Delta, Randstad). Always check which definition a list uses.
+
+## Themes
+
+- **Governance**: megacities strain transport, housing, water, and air quality.
+- **Migration**: many top cities grow from internal migration more than natural increase alone.
+- **Climate**: coastal megacities face sea-level and storm risks; inland basins (e.g., Mexico City, Delhi) face water stress and heat islands.
+
+Use official census and UN World Urbanization Prospects for up-to-date, comparable statistics.

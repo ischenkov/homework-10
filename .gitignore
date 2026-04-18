@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+output/
+.idea/
+index/
+logs/
+.pids/
+tests/results/e2e_latest.json
+.deepeval/
+.venv/
